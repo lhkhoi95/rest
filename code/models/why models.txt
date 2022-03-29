@@ -1,0 +1,6 @@
+model is our internal representation of an entity.
+resources is the external representation of that entity.
+Client interacts with resources.
+
+
+lazy = dynamic prevents creating object for each item. That could be expensive.
